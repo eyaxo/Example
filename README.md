@@ -1,3 +1,3 @@
 # Hello World
 
-This is a readme for our first project!# Example
+This is a readme for our first project!
